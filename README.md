@@ -4,6 +4,6 @@
 
 urbit: `~maslen-haslut`
 
-matrix: `splessnosi:matrix@org`
+matrix: `@splessnosi:matrix.org`
 
-telegram: `sybilresistant`
+telegram: `@sybilresistant`
